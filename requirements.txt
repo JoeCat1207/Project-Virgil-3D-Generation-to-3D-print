@@ -1,0 +1,3 @@
+hy3dgen
+trimesh
+numpy
