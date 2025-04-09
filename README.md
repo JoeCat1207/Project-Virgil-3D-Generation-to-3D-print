@@ -1,4 +1,4 @@
-# Hunyuan3D Model Generator and SuperSlicer Processor
+# Project Virgil
 
 This project uses Tencent's Hunyuan3D shape generation model to create 3D models from images, then processes them with SuperSlicer for 3D printing.
 
